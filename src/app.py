@@ -1,8 +1,8 @@
 
-def addition(a,b):
-    return a+b
-def subtraction(a,b):
-    return a-b
+def addition(a,be):
+    return a+b+e
+def subtraction(a,b,e):
+    return a-b-e
 def division(a,b):
     return a/b 
 
